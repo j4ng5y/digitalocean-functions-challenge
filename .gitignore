@@ -2,3 +2,4 @@ python/venv
 .vscode/
 .idea/
 */.DS_Store
+rust/*/target
