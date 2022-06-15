@@ -4,6 +4,8 @@ This repository is a just a showcase of different languages calling and being a 
 
 ## Table Of Contents
 
-| Language | Subject             | Link                                                                            |
-| -------- | ------------------- | ------------------------------------------------------------------------------- |
-| Go       | CLI Using Functions | https://github.com/j4ng5y/digitalocean-functions-challenge/blob/main/go/main.go |
+| Language | Subject             | Link                                                                                         |
+| -------- | ------------------- | -------------------------------------------------------------------------------------------- |
+| Go       | CLI Using Functions | https://github.com/j4ng5y/digitalocean-functions-challenge/blob/main/go/main.go              |
+| Python   | CLI Using Functions | https://github.com/j4ng5y/digitalocean-functions-challenge/blob/main/python/main.py          |
+| Rust     | CLI Using Functions | https://github.com/j4ng5y/digitalocean-functions-challenge/blob/main/rust/sharks/src/main.rs |
