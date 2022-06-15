@@ -1,4 +1,3 @@
-use std::convert::From;
 use std::collections::HashMap;
 use structopt::StructOpt;
 use serde_derive::{Deserialize,Serialize};
